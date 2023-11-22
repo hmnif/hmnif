@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Vue, PHP**
 
-- 👨‍💻 All of my projects are available at hmnif.github.io/
+- 👨‍💻 All of my projects are available at https://hmnif.github.io/
 
 - 📝 I regularly write articles on [Dev](Dev)
 
