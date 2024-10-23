@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bekasi, Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://www.dialogfeed.com/wp-content/uploads/2018/03/content-creation.gif">
 
-- 🌱 I’m currently learning **React, Vue, PHP**
+- 🌱 I’m currently learning **XML, Kotlin, Java**
 
 - 👨‍💻 All of my projects are available at https://hmnif.github.io/
 
